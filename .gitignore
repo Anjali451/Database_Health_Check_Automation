@@ -1,0 +1,12 @@
+# Generated health-check reports
+reports/*.txt
+
+# Logs
+logs/*.log
+
+# Local credentials
+.my.cnf
+
+# Temporary files
+*.tmp
+*.swp
